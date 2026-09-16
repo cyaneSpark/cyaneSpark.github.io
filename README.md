@@ -1,3 +1,4 @@
+# ONE DECK
 # TCG Collection Tracker: Specification (Draft v0.17)
 
 Status: draft. Sections marked **[OPEN]** still need a decision. The app is for personal use first, with no public release planned for now; items marked as launch requirements only apply before any public release. Based on a full review of the existing Unity prototype (One Piece TCG) and its real collection data (about 5,800 copies).
